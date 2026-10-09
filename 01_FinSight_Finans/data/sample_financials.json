@@ -1,0 +1,116 @@
+{
+  "companies": {
+    "THYAO": {
+      "name": "Türk Hava Yolları",
+      "sector": "Havacılık",
+      "currency": "TRY",
+      "stock_price": 312.50,
+      "market_cap": 431250000000,
+      "pe_ratio": 4.85,
+      "pb_ratio": 0.88,
+      "financials": {
+        "2023_Q4": {
+          "revenue": 504300000000,
+          "net_income": 163000000000,
+          "ebitda": 112000000000,
+          "total_assets": 1050000000000,
+          "total_debt": 410000000000,
+          "equity": 490000000000,
+          "gross_margin": 0.235,
+          "operating_margin": 0.182,
+          "net_margin": 0.323
+        },
+        "2024_Q2": {
+          "revenue": 295000000000,
+          "net_income": 37500000000,
+          "ebitda": 58000000000,
+          "total_assets": 1180000000000,
+          "total_debt": 460000000000,
+          "equity": 540000000000,
+          "gross_margin": 0.218,
+          "operating_margin": 0.165,
+          "net_margin": 0.127
+        }
+      },
+      "kap_announcements": [
+        {
+          "id": "KAP-2024-001",
+          "date": "2024-08-12",
+          "title": "2024 2. Çeyrek Finansal Sonuçları",
+          "summary": "Yolcu sayısı geçen yılın aynı dönemine göre %4.3 artarak 40.6 milyona ulaşmıştır. Kargo gelirleri %38 artış göstermiştir. Akaryakıt giderlerindeki artış ve jet yakıtı crack spread yükselişi esas faaliyet kârını baskılamıştır."
+        },
+        {
+          "id": "KAP-2024-002",
+          "date": "2024-09-15",
+          "title": "Yeni Uçak Siparişi Görüşmeleri",
+          "summary": "Filo genişletme hedefleri doğrultusunda Airbus ve Boeing ile 2026-2033 yılları arasında teslim edilecek wide-body uçak alım görüşmeleri devam etmektedir."
+        }
+      ]
+    },
+    "GARAN": {
+      "name": "Garanti BBVA",
+      "sector": "Bankacılık",
+      "currency": "TRY",
+      "stock_price": 118.40,
+      "market_cap": 497280000000,
+      "pe_ratio": 5.12,
+      "pb_ratio": 1.35,
+      "financials": {
+        "2023_Q4": {
+          "revenue": 185000000000,
+          "net_income": 87000000000,
+          "total_assets": 2200000000000,
+          "roe": 0.382,
+          "capital_adequacy_ratio": 0.168
+        },
+        "2024_Q2": {
+          "revenue": 115000000000,
+          "net_income": 44500000000,
+          "total_assets": 2550000000000,
+          "roe": 0.335,
+          "capital_adequacy_ratio": 0.161
+        }
+      },
+      "kap_announcements": [
+        {
+          "id": "KAP-GARAN-01",
+          "date": "2024-07-28",
+          "title": "2024 Yarıyıl Finansal Sonuçları",
+          "summary": "Konsolide net kâr 44.5 milyar TL olarak gerçekleşmiştir. Net faiz marjı enflasyon muhasebesi ve mevduat maliyetleri baskısıyla 180 baz puan gerilemiştir."
+        }
+      ]
+    },
+    "AAPL": {
+      "name": "Apple Inc.",
+      "sector": "Teknoloji",
+      "currency": "USD",
+      "stock_price": 226.50,
+      "market_cap": 3450000000000,
+      "pe_ratio": 34.20,
+      "pb_ratio": 52.10,
+      "financials": {
+        "2023_FY": {
+          "revenue": 383285000000,
+          "net_income": 96995000000,
+          "gross_margin": 0.441,
+          "operating_margin": 0.298,
+          "services_revenue": 85200000000
+        },
+        "2024_Q3": {
+          "revenue": 85777000000,
+          "net_income": 21448000000,
+          "gross_margin": 0.463,
+          "services_revenue": 24213000000
+        }
+      },
+      "kap_announcements": [
+        {
+          "id": "SEC-10Q-2024Q3",
+          "date": "2024-08-01",
+          "title": "Form 10-Q Quarterly Report",
+          "summary": "Services revenue grew 14% year-over-year to a record high of $24.2B. Gross margin expanded driven by higher mix of digital services and supply chain optimization."
+        }
+      ]
+    }
+  }
+}

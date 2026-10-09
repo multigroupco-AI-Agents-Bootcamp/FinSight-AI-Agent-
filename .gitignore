@@ -1,0 +1,137 @@
+# ====================
+# SECRET KEYS & ENV
+# ====================
+.env
+.env.*
+.env.local
+.env.development
+.env.production
+.env.test
+*.env
+secrets.json
+secrets.yaml
+secrets.yml
+config/secrets.*
+credentials.json
+credentials.yaml
+*_credentials.*
+*secret*
+*apikey*
+*api_key*
+
+# ====================
+# PYTHON
+# ====================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.venv/
+.virtualenv/
+pip-log.txt
+pip-delete-this-directory.txt
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+nosetests.xml
+test-results/
+
+# ====================
+# NODE / JAVASCRIPT
+# ====================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-store/
+.npm
+.yarn/cache
+.yarn/unplugged
+.pnp.*
+dist/
+.next/
+.nuxt/
+.output/
+.cache/
+*.tsbuildinfo
+
+# ====================
+# AI / LLM KEYS
+# ====================
+.openai_key
+.anthropic_key
+.gemini_key
+.groq_key
+openai_key.txt
+anthropic_key.txt
+*.key
+
+# ====================
+# IDE & EDITOR
+# ====================
+.vscode/settings.json
+.vscode/launch.json
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ====================
+# LOGS & TEMP
+# ====================
+logs/
+*.log
+*.tmp
+*.temp
+*.bak
+*.orig
+
+# ====================
+# OS FILES
+# ====================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ====================
+# JUPYTER NOTEBOOKS
+# ====================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ====================
+# DOCKER
+# ====================
+.docker/
+docker-compose.override.yml
